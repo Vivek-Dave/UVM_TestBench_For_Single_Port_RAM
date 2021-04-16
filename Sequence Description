@@ -1,0 +1,9 @@
+write 0 (zero) in all address and read from all addresses.
+write FF in all address and read from all addresses.
+first write and read from same location consecutively
+write in two locations and read from these two location
+write randomly at any address
+read randomly from any address
+reset sequence 
+
+NOTE : you will find these in ram_sequence.sv file 
